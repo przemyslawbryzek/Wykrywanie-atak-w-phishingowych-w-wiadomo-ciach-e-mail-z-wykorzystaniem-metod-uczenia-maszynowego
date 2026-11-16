@@ -1,0 +1,10 @@
+source,kind,train,val,test
+nazario,phishing,5594,2666,918
+nigerian,phishing,1969,936,335
+trec05,ham,19225,9603,3198
+trec05,spam,12965,6669,2188
+trec06,ham,7346,3671,1221
+trec06,spam,2258,1116,361
+trec07,ham,14474,7241,2419
+trec07,spam,16848,8818,2430
+razem,,80679,40720,13070

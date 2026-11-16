@@ -1,0 +1,19 @@
+korpus,artefakt,przed_proc,po_proc
+ID,znaczniki HTML,5.529,0.641
+ID,reguły CSS,1.551,0.575
+ID,encje HTML,2.707,0.002
+ID,nagłówki MIME,0.887,0.289
+ID,base64,4.296,0.008
+ID,mojibake,0.189,0.108
+ID,znak zastępczy U+FFFD,7.053,0.0
+ID,niezamaskowane URL,45.632,0.108
+ID,niezamaskowane e-maile,31.728,0.014
+OOD,znaczniki HTML,0.114,0.0
+OOD,reguły CSS,0.0,0.0
+OOD,encje HTML,0.016,0.0
+OOD,nagłówki MIME,0.016,0.0
+OOD,base64,0.016,0.0
+OOD,mojibake,0.0,0.0
+OOD,znak zastępczy U+FFFD,0.0,0.0
+OOD,niezamaskowane URL,3.952,0.0
+OOD,niezamaskowane e-maile,0.0,0.0

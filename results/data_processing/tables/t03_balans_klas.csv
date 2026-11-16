@@ -1,0 +1,5 @@
+korpus,wariant,pozytywne,negatywne,pozytywne_%
+ID,label_spam_0,12418,122051,9.23
+ID,label_spam_1,66071,68398,49.13
+OOD,label_spam_0,4987,1137,81.43
+OOD,label_spam_1,4987,1137,81.43

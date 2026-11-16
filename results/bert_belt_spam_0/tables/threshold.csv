@@ -1,0 +1,2 @@
+docelowy_fpr,próg,fpr_ważony_val,fpr_val,recall_val,learning_rate,n_epochs,kroki,aucpr_ważone_holdout,czas_wyboru_lr_s,czas_uczenia_s
+0.01,0.7656330466270447,0.009972510001452606,0.01877795139824344,0.9519711271515825,3e-05,2.5,12608,0.9417142150882891,2559.84464595,2232.2758752460013

@@ -1,0 +1,2 @@
+docelowy_fpr,próg,fpr_ważony_val,fpr_val,recall_val,n_features,hidden,dropout,learning_rate,weight_decay,n_epochs,n_parameters,aucpr_ważone_cv,czas_grida_s,czas_uczenia_s
+0.01,0.43482664227485657,0.009959719407011408,0.020717711083571313,0.9364242087729039,20000,"(512, 256)",0.5,0.001,0.0001,4,10372097,0.9508368314143052,1529.1417455230003,188.14554228699853

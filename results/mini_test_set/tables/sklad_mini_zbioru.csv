@@ -1,0 +1,10 @@
+korpus,source,ham,phishing,spam,razem,udział_spam_1_%
+ID,nazario,0,300,0,300,100.0
+ID,nigerian,0,300,0,300,100.0
+ID,trec05,150,0,150,300,50.0
+ID,trec06,150,0,150,300,50.0
+ID,trec07,150,0,150,300,50.0
+OOD,ferb,150,150,0,300,50.0
+OOD,kd10000,5,55,0,60,91.66666666666666
+OOD,nebulon,76,69,0,145,47.58620689655172
+OOD,zeroday,150,150,0,300,50.0

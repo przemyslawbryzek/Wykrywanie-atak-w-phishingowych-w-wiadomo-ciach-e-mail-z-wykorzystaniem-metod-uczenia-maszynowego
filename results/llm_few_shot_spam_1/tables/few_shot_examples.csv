@@ -1,0 +1,17 @@
+source,kind,raw_key,n_chars,początek
+trec05,ham,TREC_05.csv:7205,738,"[YEAR] Budget
+Here is the G&A Expense worksheet to use as a guide for next year'"
+nazario,phishing,private-phishing4.mbox:1491,1112,"Attn: Faculty/Staff/Students,
+Attn: Faculty/Staff/Students, This message is from"
+trec07,spam,TREC_07.csv:36761,814,"This is what I was talking about ...
+camera on second it oil it floor and prison"
+trec06,ham,TREC_06.csv:6835,414,"Subsumption Architecture
+Nick, I used Handy Boards in my AI class last year and "
+nigerian,phishing,Nigerian_Fraud.csv:1891,754,"Hello my dear
+Hello my dear My name is Prince George Sanoussi, I am the first so"
+trec07,ham,TREC_07.csv:46318,1082,"Stem cells could treat diabetes
+The Internet home of: HOME NEWS MARKETS TECHNOLO"
+trec05,spam,TREC_05.csv:4009,401,"something unusual
+beautifier Brumidi synonyms equipment wreath establishing coil"
+trec05,ham,TREC_05.csv:32907,1027,"19 Month Forecast Review
+Please see the attached file for your respective area ("

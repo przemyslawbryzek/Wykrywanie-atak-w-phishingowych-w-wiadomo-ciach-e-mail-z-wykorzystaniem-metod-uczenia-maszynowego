@@ -1,0 +1,2 @@
+learning_rate,best_step,best_epoch,aucpr_ważone,aucpr,czas_s
+3e-05,8405,2.5,0.9417142150882891,0.934197982360355,2559.5159044849997

@@ -1,0 +1,2 @@
+docelowy_fpr,próg,fpr_ważony_val,fpr_val,recall_val,max_depth,learning_rate,n_estimators,aucpr_ważone_cv,czas_embeddingów_s,czas_grida_s,czas_uczenia_s
+0.01,0.48870888352394104,0.00998886460507613,0.017861953769060832,0.9069961132704053,4,0.05,2152,0.9131661026015013,55.24892425700091,157.32220365300054,6.781432873000085

@@ -1,0 +1,31 @@
+model,korpus,tn,fp,fn,tp
+BoW + LR,ID,444,6,230,820
+BoW + LR,OOD,350,31,147,277
+TF-IDF + XGB,ID,444,6,91,959
+TF-IDF + XGB,OOD,280,101,91,333
+TF-IDF + MLP,ID,446,4,79,971
+TF-IDF + MLP,OOD,297,84,85,339
+fastText + XGB,ID,441,9,99,951
+fastText + XGB,OOD,327,54,242,182
+fastText + MLP,ID,443,7,84,966
+fastText + MLP,OOD,351,30,239,185
+BERT 512,ID,442,8,18,1032
+BERT 512,OOD,262,119,153,271
+BELT,ID,441,9,28,1022
+BELT,OOD,274,107,145,279
+qwen2.5:7b zero-shot,ID,381,69,36,1014
+qwen2.5:7b zero-shot,OOD,334,47,106,318
+qwen3.5:9b zero-shot,ID,398,52,65,985
+qwen3.5:9b zero-shot,OOD,167,214,14,410
+gemma4:12b zero-shot,ID,389,61,21,1029
+gemma4:12b zero-shot,OOD,217,164,5,419
+gpt-oss:20b zero-shot,ID,366,84,22,1028
+gpt-oss:20b zero-shot,OOD,309,72,53,371
+qwen2.5:7b few-shot,ID,384,66,45,1005
+qwen2.5:7b few-shot,OOD,348,33,173,251
+qwen3.5:9b few-shot,ID,404,46,50,1000
+qwen3.5:9b few-shot,OOD,266,115,30,394
+gemma4:12b few-shot,ID,415,35,40,1010
+gemma4:12b few-shot,OOD,305,76,14,410
+gpt-oss:20b few-shot,ID,383,67,55,995
+gpt-oss:20b few-shot,OOD,347,34,85,339
